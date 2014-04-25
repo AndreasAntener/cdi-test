@@ -1,6 +1,3 @@
-/**
- * Copyright (c) 2014 by Andreas Antener. All rights reserved.
- */
 package impl;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

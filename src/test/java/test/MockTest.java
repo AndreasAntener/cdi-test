@@ -1,6 +1,3 @@
-/**
- * Copyright (c) 2014 by Andreas Antener. All rights reserved.
- */
 package test;
 
 import impl.Greeter;
